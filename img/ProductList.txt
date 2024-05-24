@@ -1,0 +1,23 @@
+===Casing===
+1.ASUS ROG Strix Helios RGB Black
+2.ASUS TUF Gaming GT501
+3.ASUS ROG Strix Helios RGB White
+4.NZXT H6 Flow White Compact
+
+===Monitor===
+1.MSI MAG 34inch QD-OLED
+2.Acer 34inch 180Hz NITRO
+3.MSI MAG 27inch QD-OLED
+4.Lenovo 32inch VA Curved
+
+===VGA===
+1.ASUS DUAL RTX 4060 Ti 16GB GDDR6
+2.ASUS ROG Strix Graphics Card
+3.ASUS Strix Geforce RTX 4090 24GB GDDR6X
+4.MSI GeForce RTX 4060
+
+===Console===
+1.PlayStation 5 Standard Edition
+2.MSI Claw-A1M With Ultra 7
+3.Nintendo Switch OLED
+4.Sony DualSense Charging Station
